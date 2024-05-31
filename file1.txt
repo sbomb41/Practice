@@ -1,6 +1,2 @@
 hello world
-this is remote second line
-
 this is local second line
-
-made a change in this
