@@ -3,4 +3,6 @@ edit from remote end
 second edit from remote branch3
 
 second edit from local branch3
+third edit remote
+
 third edit locally
