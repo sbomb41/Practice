@@ -1,3 +1,5 @@
 new file2 from branch3
 edit from remote end
+second edit from remote branch3
+
 second edit from local branch3
