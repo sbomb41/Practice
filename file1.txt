@@ -1,10 +1,6 @@
 hello world
+this is remote second line
+
 this is local second line
 
-adding another line after cherry picking
-And another line
-
-testing staged checkout
-
-unstaging this file
-
+made a change in this
